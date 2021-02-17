@@ -1,0 +1,47 @@
+body{
+	text-align: center;
+	font-family: lucidabright;
+	background-image: url(images/ppl.jpeg);
+	background-size: cover; 
+	color: moccasin;
+}
+
+h1 {
+ font-size: 60px;
+ padding-top: 160px;
+ text-shadow: 2px 2px 2px black ;
+ margin-bottom: 3px ;
+}
+p {
+font-size: 30px;
+text-shadow: 2px 2px 2px black ;
+color: white;
+margin-top: 10px;
+
+}
+.button{
+	text-decoration: none;
+	background-color: cornflowerblue;
+	font-size: 20;
+	padding: 5px 10px 5px 10px;
+	border-radius: 8px;
+	color:moccasin;
+	box-shadow: 2px 2px 2px black;
+}
+.button:hover {background-color: rgba(110,149,237,0.90);
+
+}
+.social {
+	list-style: none;
+	padding-left: 0;
+	margin-top: 90px;
+}
+.social li {
+	display:inline;
+}
+.social a {
+	color:cornflowerblue ;
+	font-size: 30;
+	text-shadow: 2px 2px 2px white;
+
+}
